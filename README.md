@@ -4,4 +4,4 @@
 
 Won third prize in the Hackhub IEEE Computer Society Hackathon.
 
-<img src = "/Users/hariharan/hari_works/earthquake_prediction/IEEE Hackhub 3rd prize.jpg"/>
+<img src = "IEEE Hackhub 3rd prize.jpg"/>
